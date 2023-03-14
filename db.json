@@ -4,22 +4,19 @@
       "artist": "Dua Lipa",
       "name": "Levitating",
       "initialVotes": 13,
-      "album": "Album A",
-      "id": 1501336328745
+      "album": "Album A"
     },
     {
       "artist": "The Weeknd",
       "name": "Blinding Lights",
       "initialVotes": 2,
-      "album": "Album A",
-      "id": 298280673134
+      "album": "Album A"
     },
     {
       "artist": "Taylor Swift",
       "name": "Willow",
       "initialVotes": 143,
-      "album": "Album B",
-      "id": 122517047709
+      "album": "Album B"
     }
   ]
 }
